@@ -1,7 +1,6 @@
 import os
 import tkinter as tk
 import logging
-import pytest
 from tkinter import filedialog, ttk, messagebox
 from data_extraction import convert_rtf
 from data_extraction import debug_print
